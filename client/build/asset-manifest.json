@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f7c127d7.chunk.js",
+    "main.js.map": "/static/js/main.f7c127d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e6e88a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e6e88a6.js.map",
+    "static/js/2.49284e7b.chunk.js": "/static/js/2.49284e7b.chunk.js",
+    "static/js/2.49284e7b.chunk.js.map": "/static/js/2.49284e7b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d5f3741241edc783edd373fc7bdbe32.js": "/precache-manifest.9d5f3741241edc783edd373fc7bdbe32.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.49284e7b.chunk.js.LICENSE.txt": "/static/js/2.49284e7b.chunk.js.LICENSE.txt",
+    "static/media/YouChat.png": "/static/media/YouChat.88108281.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e6e88a6.js",
+    "static/js/2.49284e7b.chunk.js",
+    "static/js/main.f7c127d7.chunk.js"
+  ]
+}
